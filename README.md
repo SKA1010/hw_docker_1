@@ -23,6 +23,7 @@
 
 Docker установлен
 
+![image](https://github.com/SKA1010/hw_docker_1/assets/125235217/758df8f6-2212-4825-9875-e8dce0a00c94)
 
 
 ---
@@ -38,6 +39,7 @@ Docker установлен
 
 Контейнер запущен
 
+![image](https://github.com/SKA1010/hw_docker_1/assets/125235217/b2c9ed7a-863f-465e-b0c0-a65fe7f5dacd)
 
 ---
 
@@ -49,6 +51,8 @@ Docker установлен
 1. Приложите скриншот.
 
 Контейнер удалён
+
+![image](https://github.com/SKA1010/hw_docker_1/assets/125235217/49d5a81e-b04c-4f12-8e46-a8564fe753ef)
 
 ---
 
@@ -62,7 +66,7 @@ Docker установлен
 
 Контейнеры с Apache запрущены
 
-
+![image](https://github.com/SKA1010/hw_docker_1/assets/125235217/eb58907d-80aa-46c7-a08b-725fefb1f59f)
 
 ---
 
@@ -74,3 +78,5 @@ Docker установлен
  * скриншот браузера, где apache2 из вашего контейнера выводит ваши ФИО.
 
 Контейнер с требуемой страницей запущен
+
+![image](https://github.com/SKA1010/hw_docker_1/assets/125235217/66b168c6-a854-4e69-934d-2e4c3002a639)
